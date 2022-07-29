@@ -1,11 +1,11 @@
 package sdet;
 
-public class Git_4 {
-
+public class Git_3 {
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Git_4");
+		System.out.println("Git_3");
 
 	}
 
